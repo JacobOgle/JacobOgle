@@ -6,8 +6,8 @@
                self.username = "JacobOgle"
                self.realname = "Jacob Ogle"
                self.tools = {
-                   'languages': ['Python', 'Java', '(learning) JavaScript', '(learning) C#'],
-                   'frameworks': ['Django', 'Flask', '(learning) Spring', '(learning) .Net'],
+                   'languages': ['Python', 'JavaScript', '(learning) C#'],
+                   'frameworks': ['Django', 'Flask', Express.js, Vue.js, '(learning) .Net'],
                    'devops': ['Docker', 'Azure', 'Heroku', 'Jenkins'],
                    'devtools': ['Git', 'Github', 'VSCode', 'Bash']
                }
