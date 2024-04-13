@@ -1,7 +1,7 @@
 Husband, Father to Be, and Software Engineer
 ---
 
-Interested in Distributed Systems, Databases and Systems Programming.
+Interested in Distributed Systems, Databases, Programming Languages and Systems Programming.
 
 Technical Skills: Python, Golang, Rust, C (some C++ if I must), SQL, AWS, and Bash
 
